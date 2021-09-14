@@ -1,3 +1,6 @@
+- Johan Alejandro Charry Acevedo - ja.charry@uniandes.edu.co - 202111151
+- Nicolas Toros Barrios - n.torob@uniandes.edu.co - 202116790
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
